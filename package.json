@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/airfoil",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Widgeon's modified Sleitnick airfoil module, ported to roblox-ts",
   "main": "out/init.lua",
   "scripts": {
@@ -17,6 +17,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/ZachCurtis/rbxts-airfoil"
+	},
   "devDependencies": {
     "@rbxts/compiler-types": "^1.2.8-types.1",
     "@rbxts/types": "^1.0.566",
